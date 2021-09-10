@@ -4,6 +4,8 @@ https://drive.google.com/file/d/1cS1F5oPabcHW82Gb09a0cRMYL6tAtTzh/view?usp=shari
 
 # BREAST CANCER PREDICTION USING AMAZON SAGEMAKER
 
+![breast](https://user-images.githubusercontent.com/56153083/132855498-f64c4c56-5959-4f12-8abb-5d41cf67c0e0.jpg)
+
 The purpose of this project is to predict whether the patient has breast cancer or not using machine learning.We acquired the breast cancer dataset from kaggle dataset and used amazon sagemaker’s jupyter notebook for the purpose of coding . The method uses Xgboost classifier and amazon web services like Amazon S3,AWS API Gateway,AWS Lambda,AWS SNS,Amazon SageMaker for completing the project. We will be building and deploying the ml model in aws sagemaker and use sns service to generate email alert about the risk
 
 
