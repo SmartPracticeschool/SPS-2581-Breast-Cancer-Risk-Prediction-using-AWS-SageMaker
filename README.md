@@ -21,11 +21,9 @@ The purpose of this project is to predict whether the patient has breast cancer 
   ## Amazon web service tools used in this project
 
 1) AMAZON SAGEMAKER:
-
 Amazon SageMaker is a fully-managed service that enables data scientists and developers to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker includes modules that can be used together or independently to build, train, and deploy your machine learning models
 
 2) AMAZON S3
-
 An Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services' (AWS) Simple Storage Service (S3).
 
 
@@ -33,7 +31,6 @@ An Amazon S3 bucket is a public cloud storage resource available in Amazon Web S
  AWS Lambda lets you run code without provisioning or managing servers. You pay only for the computing time you consume. With lambda , you can run code for virtually any type of application or backend service - all with zero administration . Just upload your code and lambda takes care of everything required to run and scale your code with high availability.
 
 4) AWS API GATEWAY
-
 Amazon API Gateway is an AWS service for creating, publishing, maintaining, monitoring,
 And securing. REST, HTTP, and WebSocket APIS at any scale.
 
@@ -43,8 +40,9 @@ Implement standard HTTP methods such as GET, POST, PUT, and DELETE
 
 
 5) AWS SNS SERVICE
-
 Amazon Simple Notification Service (Amazon SNS) is a managed service that provides message delivery from publishers to subscribers (also known as producers and consumers).Clients can subscribe to the SNS topic and receive published messages using a supported protocol, such as Amazon SQS, AWS Lambda, HTTP, email, mobile push notifications, and mobile
+
+![block diagram](https://user-images.githubusercontent.com/56153083/132855472-baa619cd-bbeb-4023-a482-3e4afe828558.png)
 
 
   ## Machine learning Algorithm used in the project.
