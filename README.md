@@ -13,6 +13,9 @@ The purpose of this project is to predict whether the patient has breast cancer 
  - [Screening is for all women without symptoms , whether they have a family history of breast cancer or not. Some women choose not to attend for breast screening . Others attend on some occasions . Women's reasons for non attendance vary, some don't go because they feel they are too busy . Also studies suggest that a few women don't go for screening because they are afraid of being diagnosed with breast cancer](https://github.com/matiassingers/awesome-readme)
  - [Considering all these reasons it is very important to detect breast cancer as early as possible](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
+![AWS_Learning_Path](https://user-images.githubusercontent.com/56153083/132846864-34650319-6055-4f3a-ae2e-5a5efe27993a.png)
+
+
   ## Amazon web service tools used in this project
 
 1) AMAZON SAGEMAKER:
